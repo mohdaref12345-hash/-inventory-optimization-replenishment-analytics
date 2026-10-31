@@ -1,0 +1,41 @@
+sku,category,unit_cost,lead_time_days,baseline_avg_daily_demand,assumed_demand_cv
+SKU-001,Electronics,58.68,7,33.42,0.52
+SKU-002,Electronics,130.8,3,18.6,0.6
+SKU-003,Electronics,36.28,9,34.31,0.52
+SKU-004,Electronics,64.68,12,12.66,0.53
+SKU-005,Electronics,98.02,5,15.19,0.18
+SKU-006,Electronics,73.42,4,27.22,0.49
+SKU-007,Electronics,26.6,7,12.64,0.27
+SKU-008,Electronics,107.48,12,10.97,0.31
+SKU-009,Electronics,110.92,8,14.37,0.56
+SKU-010,Electronics,38.23,4,26.41,0.28
+SKU-011,Home,148.07,7,12.79,0.21
+SKU-012,Home,16.24,8,8.14,0.52
+SKU-013,Home,78.64,14,9.18,0.58
+SKU-014,Home,20.89,4,19.35,0.4
+SKU-015,Home,44.15,8,19.74,0.4
+SKU-016,Home,106.23,11,32.29,0.19
+SKU-017,Home,94.79,12,14.42,0.3
+SKU-018,Home,66.96,5,3.64,0.47
+SKU-019,Home,62.21,14,5.76,0.33
+SKU-020,Home,48.43,8,14.07,0.43
+SKU-021,Office,58.07,6,4.74,0.51
+SKU-022,Office,32.0,11,21.7,0.23
+SKU-023,Office,88.06,7,13.02,0.37
+SKU-024,Office,143.46,4,22.44,0.6
+SKU-025,Office,123.29,10,13.79,0.55
+SKU-026,Office,18.1,8,31.03,0.22
+SKU-027,Office,128.42,11,33.13,0.59
+SKU-028,Office,44.6,7,8.42,0.28
+SKU-029,Office,115.29,12,21.85,0.33
+SKU-030,Office,101.03,9,28.1,0.16
+SKU-031,Personal Care,59.83,5,3.87,0.25
+SKU-032,Personal Care,90.32,5,18.73,0.49
+SKU-033,Personal Care,56.58,9,22.92,0.2
+SKU-034,Personal Care,133.21,6,9.77,0.28
+SKU-035,Personal Care,106.79,3,25.26,0.36
+SKU-036,Personal Care,7.78,12,13.48,0.53
+SKU-037,Personal Care,136.09,3,24.71,0.62
+SKU-038,Personal Care,99.09,13,19.61,0.36
+SKU-039,Personal Care,77.96,10,29.04,0.55
+SKU-040,Personal Care,105.3,10,3.3,0.36
