@@ -69,7 +69,6 @@ The dashboard has shown the following values:
 - **Recommended Order Quantity:** 389
 - **Inventory Value:** 0.15M
 
-*These values reflect the dataset and calculations used in the report. Confirm that they match the latest version of your dashboard.*
 
 ## Project Files
 
