@@ -100,7 +100,6 @@ A commonly used formula is:
 Reorder Point = Average Daily Demand × Lead Time + Safety Stock
 ```
 
-*Note: This is a standard inventory-planning formula. The exact calculation used in the Power BI report should be checked against the report's DAX measures and assumptions.*
 
 ## Key Insights & Analytical Use
 
